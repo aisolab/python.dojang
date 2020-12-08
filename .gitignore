@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# PyCharm project settings
+.idea
+
+# visual-studio-code project settings
+.vscode
+
+# macOS
+.DS_Store
